@@ -1,0 +1,36 @@
+.menu-item{
+    text-align: center;
+    padding: 15px;    
+    margin-top: 9px;
+    font-weight: bold;
+    color: #fff;
+    font-size: 21px;
+    text-transform: uppercase;
+}
+.menu-item:hover{
+    background-color: #8F0023;
+    
+}
+#navigation{
+    background-color: #F25E2A;
+}
+#textHeading{
+    position: absolute;
+    /* left: 0; */
+    top: 165px;
+    left: 240px;
+    font-size: 4em;
+    color: #fff /*rgb(121, 223, 53)*/;
+    font-weight: bold ;
+    font-family: "Rubik", sans-serif;
+}
+#textSubheading{
+    position: absolute;
+    /* left: 0; */
+    top: 270px;
+    left: 440px;
+    /* font-size: 4em; */
+    color: #fff;
+    font-weight: 700 ;
+    font-family: "Rubik", sans-serif;
+}
