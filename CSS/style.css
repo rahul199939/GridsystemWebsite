@@ -55,7 +55,7 @@
 }
 .textFormate{
     top:220px;
-    left:500px;
+    left:647px;
     position: absolute;
     font-size: 60px;
     color: white;
@@ -71,4 +71,26 @@
     background-color: #fff;
     margin: 50px 0px 50px 80px !important;
     padding: 15px;
+}
+.aboutStyle-1{
+    text-align: center;
+    background-color: white;
+    padding: 5px 20px;
+    width: 22% !important;    
+    box-shadow: -9px 4px 19px 10px #C7C7C7;
+    margin: 50px 0px 50px 180px !important;
+    position: absolute;
+    left: 180px;
+    z-index: 1;
+}
+.aboutStyle-2{
+    text-align: center;
+    background-color: white;
+    padding: 5px 20px;
+    width: 22% !important;    
+    box-shadow: 23px 11px 16px -5px #C7C7C7;
+    margin: 50px 0px 50px 180px !important;
+    position: absolute;
+    right: 335px;
+    z-index: 1;
 }
